@@ -173,24 +173,6 @@ This project is designed for **learning and experimentation**, not to compete wi
 
 ---
 
-## 🎓 Why This Project Matters
-
-This project demonstrates:
-
-* Reinforcement learning fundamentals
-* Neural network design
-* Complex action-space handling
-* Clean system architecture
-* Applied AI beyond toy problems
-
-It is suitable as:
-
-* A resume project
-* A research starter
-* A foundation for stronger chess engines
-
----
-
 ## 📜 License
 
 MIT License
