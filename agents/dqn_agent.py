@@ -77,6 +77,9 @@ class DQNAgent:
 
         if random.random() < self.epsilon:
             legal_actions = np.where(legal_moves_mask == 1)[0]
+            if len(legal_actions) == 0:
+                return None
+
             return int(np.random.choice(legal_actions))
 
         state_t = (
